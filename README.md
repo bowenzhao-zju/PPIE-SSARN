@@ -8,7 +8,7 @@ This repo is the official implementation of the following paper:
 
 We present a pseudo-panchromatic image (PPI) edge-infused spatial–spectral adaptive residual network (PPIE-SSARN) for MSFA image demosaicing. 
 
-![network architecture](F:\2022\1 NTIRE 2022\paper\GitHub\figure\network architecture.png)
+![network architecture](./figure/network architecture.png)
 
 The proposed two-branch model deploys a residual subbranch to adaptively compensate for the spatial and spectral differences of reconstructed multispectral images and a PPI edge infusion subbranch to enrich the edge-related information. Moreover, we design an effective mosaic initial feature extraction module with a spatial- and spectral-adaptive weight-sharing strategy whose kernel weights can change adaptively with spatial locations and spectral bands to avoid artifacts and aliasing problems.
 
@@ -61,7 +61,7 @@ The proposed two-branch model deploys a residual subbranch to adaptively compens
 
 ## Results
 
-![results](F:\2022\1 NTIRE 2022\paper\GitHub\figure\results.png)
+![results](./figure/results.png)
 
 Visual comparisons for demosaicing results on the ARAD-1K dataset. Our method is compared with five alternatives, that is, MCAN [[Code](https://github.com/polwork/Mosaic-Convolution-Attention-Network-for-Demosaicing-Multispectral-Filter-Array-Images)], DPDNet [[Code](https://github.com/liushumin/DDM-Net)], 3D-ResNet, PPID [[Code](https://ieeexplore.ieee.org/ielx7/6745852/8098624/7893771/tci-mihoubi-2691553-mm.zip?arnumber=7893771)], and WB. The first column shows the GT. In addition, zoomed-in views of selected regions are provided. Please zoom in to see the details.
 
