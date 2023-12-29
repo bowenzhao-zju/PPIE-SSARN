@@ -8,7 +8,7 @@ This repo is the official implementation of the following paper:
 
 We present a pseudo-panchromatic image (PPI) edge-infused spatial–spectral adaptive residual network (PPIE-SSARN) for MSFA image demosaicing. 
 
-![network architecture](./figure/network architecture.png)
+![network architecture](./figure/network_architecture.png)
 
 The proposed two-branch model deploys a residual subbranch to adaptively compensate for the spatial and spectral differences of reconstructed multispectral images and a PPI edge infusion subbranch to enrich the edge-related information. Moreover, we design an effective mosaic initial feature extraction module with a spatial- and spectral-adaptive weight-sharing strategy whose kernel weights can change adaptively with spatial locations and spectral bands to avoid artifacts and aliasing problems.
 
