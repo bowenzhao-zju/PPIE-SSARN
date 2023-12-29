@@ -15,12 +15,12 @@ The proposed two-branch model deploys a residual subbranch to adaptively compens
 ## Datasets
 
 - ARAD-1K Dataset
-  	Training [[Baidu]()] (Code: arad)
-  	Testing   [[Baidu](https://pan.baidu.com/s/1u7theJAXvZ-zMcNgFRh1yA)] (Code: arad) / [[Google](https://drive.google.com/file/d/1lj87dO2g1zdKBnlBKNPFiEaeDwhZq_Zv/view?usp=drive_link)]
+  - Training [[Baidu]()] (Code: arad)
+  - Testing  [[Baidu](https://pan.baidu.com/s/1u7theJAXvZ-zMcNgFRh1yA)] (Code: arad) / [[Google](https://drive.google.com/file/d/1lj87dO2g1zdKBnlBKNPFiEaeDwhZq_Zv/view?usp=drive_link)]
 
 - Chikusei Dataset
-  	Training [[Baidu](https://pan.baidu.com/s/1o7mQrzij1nJj4Ad3qYHR5w)] (Code: chik) / [[Google](https://drive.google.com/file/d/1HKiY9Zvl6uYvDNM0WxGEAPercTpxEgOv/view?usp=drive_link)]
-  	Testing   [[Baidu](https://pan.baidu.com/s/1qAv0gQI0AP2ukYSsfF2IxQ)] (Code: chik) / [[Google](https://drive.google.com/file/d/1A_lp1k_IpZRDC6s2kyjIOWzbn_JAiaF-/view?usp=drive_link)]
+  - Training [[Baidu](https://pan.baidu.com/s/1o7mQrzij1nJj4Ad3qYHR5w)] (Code: chik) / [[Google](https://drive.google.com/file/d/1HKiY9Zvl6uYvDNM0WxGEAPercTpxEgOv/view?usp=drive_link)]
+  - Testing  [[Baidu](https://pan.baidu.com/s/1qAv0gQI0AP2ukYSsfF2IxQ)] (Code: chik) / [[Google](https://drive.google.com/file/d/1A_lp1k_IpZRDC6s2kyjIOWzbn_JAiaF-/view?usp=drive_link)]
 
 ## Install
 
