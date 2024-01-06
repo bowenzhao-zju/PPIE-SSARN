@@ -15,7 +15,7 @@ The proposed two-branch model deploys a residual subbranch to adaptively compens
 ## Datasets
 
 - ARAD-1K Dataset
-  - Training [[Baidu]()] (Code: arad)
+  - Training [[Baidu](https://pan.baidu.com/s/1MufmsTm62ATXiDNNbqQLOQ)] (Code: arad)
   - Testing   [[Baidu](https://pan.baidu.com/s/1u7theJAXvZ-zMcNgFRh1yA)] (Code: arad) / [[Google](https://drive.google.com/file/d/1lj87dO2g1zdKBnlBKNPFiEaeDwhZq_Zv/view?usp=drive_link)]
   
 - Chikusei Dataset
